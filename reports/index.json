@@ -1,0 +1,31 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260616-211412-uyu5",
+      "title": "Get On Me, Jokajo",
+      "commanders": [
+        "Get On Me",
+        "Jokajo"
+      ],
+      "dateStart": "2026-06-17T02:14:12.000Z",
+      "dateEnd": "2026-06-17T02:57:35.000Z",
+      "dateLabel": "6/16/2026, 9:14:12 PM - 6/16/2026, 9:57:35 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260616-211412-uyu5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    }
+  ]
+}
