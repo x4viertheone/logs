@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-203606-1pgi",
+      "title": "Eternalsrs, Link Does Damage",
+      "commanders": [
+        "Eternalsrs",
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-06-23T01:36:06.000Z",
+      "dateEnd": "2026-06-23T02:21:22.000Z",
+      "dateLabel": "6/22/2026, 8:36:06 PM - 6/22/2026, 9:21:22 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260622-203606-1pgi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260622-203606-af8b",
       "title": "Eternalsrs, Link Does Damage",
       "commanders": [
