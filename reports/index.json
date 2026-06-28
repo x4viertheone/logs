@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-201602-uunv",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-28T01:16:02.000Z",
+      "dateEnd": "2026-06-28T02:15:59.000Z",
+      "dateLabel": "6/27/2026, 8:16:02 PM - 6/27/2026, 9:15:59 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260627-201602-uunv",
+      "summary": {
+        "borderlandsPct": 0.2727272727272727,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 16,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260622-203606-1pgi",
       "title": "Eternalsrs, Link Does Damage",
       "commanders": [
