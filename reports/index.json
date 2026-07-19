@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-201629-iw2g",
+      "title": "Link Does Damage",
+      "commanders": [
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-07-19T01:16:29.000Z",
+      "dateEnd": "2026-07-19T01:44:44.000Z",
+      "dateLabel": "7/18/2026, 8:16:29 PM - 7/18/2026, 8:44:44 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260718-201629-iw2g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 75,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260627-201602-uunv",
       "title": "Get On Me",
       "commanders": [
