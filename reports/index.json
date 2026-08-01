@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-221814-vmak",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "dateStart": "2026-08-01T03:18:14.000Z",
+      "dateEnd": "2026-08-01T03:55:37.000Z",
+      "dateLabel": "7/31/2026, 10:18:14 PM - 7/31/2026, 10:55:37 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260731-221814-vmak",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260718-201629-iw2g",
       "title": "Link Does Damage",
       "commanders": [
