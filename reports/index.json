@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-220320-xwkq",
+      "title": "Twnsoull",
+      "commanders": [
+        "Twnsoull"
+      ],
+      "dateStart": "2026-08-08T03:03:20.000Z",
+      "dateEnd": "2026-08-08T03:53:00.000Z",
+      "dateLabel": "8/7/2026, 10:03:20 PM - 8/7/2026, 10:53:00 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260807-220320-xwkq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260731-221814-vmak",
       "title": "Öptussy",
       "commanders": [
