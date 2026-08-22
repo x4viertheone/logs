@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-221517-8ss6",
+      "title": "Neri Misses Holo, Neri Plays Music",
+      "commanders": [
+        "Neri Misses Holo",
+        "Neri Plays Music"
+      ],
+      "dateStart": "2026-08-22T03:15:17.000Z",
+      "dateEnd": "2026-08-22T04:01:03.000Z",
+      "dateLabel": "8/21/2026, 10:15:17 PM - 8/21/2026, 11:01:03 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260821-221517-8ss6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260807-220320-xwkq",
       "title": "Twnsoull",
       "commanders": [
