@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-201431-ec9y",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
+      ],
+      "dateStart": "2026-08-23T01:14:31.000Z",
+      "dateEnd": "2026-08-23T01:59:32.000Z",
+      "dateLabel": "8/22/2026, 8:14:31 PM - 8/22/2026, 8:59:32 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260822-201431-ec9y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260821-221517-8ss6",
       "title": "Neri Misses Holo, Neri Plays Music",
       "commanders": [
