@@ -4,6 +4,32 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-221426-vxm2",
+      "title": "Dan Is A New Name, Dan Is My New Name, Dan The No Plan Man, Whip It Good",
+      "commanders": [
+        "Dan Is A New Name",
+        "Dan Is My New Name",
+        "Dan The No Plan Man",
+        "Whip It Good"
+      ],
+      "dateStart": "2026-08-29T03:14:26.000Z",
+      "dateEnd": "2026-08-29T03:59:05.000Z",
+      "dateLabel": "8/28/2026, 10:14:26 PM - 8/28/2026, 10:59:05 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20260828-221426-vxm2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260822-201431-ec9y",
       "title": "Link Throws Siege",
       "commanders": [
