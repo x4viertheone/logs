@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261023-211449-ea5f",
+      "title": "Vælrix",
+      "commanders": [
+        "Vælrix"
+      ],
+      "dateStart": "2026-10-24T02:14:49.000Z",
+      "dateEnd": "2026-10-24T02:54:05.000Z",
+      "dateLabel": "10/23/2026, 9:14:49 PM - 10/23/2026, 9:54:05 PM",
+      "url": "https://x4viertheone.github.io/logs/?report=20261023-211449-ea5f",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260828-221426-vxm2",
       "title": "Dan Is A New Name, Dan Is My New Name, Dan The No Plan Man, Whip It Good",
       "commanders": [
